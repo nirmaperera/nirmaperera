@@ -31,8 +31,8 @@
 
 ### Design Software
 <p>
-    <img  width="50px" src="https://img.icons8.com/windows/32/000000/figma.png"/>
-    <img  width="50px" src="https://img.icons8.com/ios/50/000000/adobe-xd.png"/>
+    <img width="50px" src="https://img.icons8.com/windows/32/4a90e2/figma.png"/>
+    <img width="50px" src="https://img.icons8.com/wired/64/4a90e2/adobe-xd.png"/>
 </p>
 
 <!-- All icons by Icons8 -->
