@@ -12,7 +12,8 @@
 <hr/>
 
 ### Hi there 👋
-<p> I’m a front end developer based in NYC who is passionate about making UI that is not only clean and beautiful but also functional and user friendly. In addition, I strive to create and build UI that is fully responsive and mobile friendly. Growing up, I always had a passion for art and design, and later on in life I started coding. I am fortunate to find a career path where I can incorporate the two and create UI that I am really proud of. </p>
+<p> I’m a front end developer and designer, passionate about making UI that is not only clean and beautiful but also functional and user friendly. I strive to build UI that is fully responsive and mobile friendly. I bring excellent skills in problem-solving, communication, and creativity. Curiosity to learn and continuously improve in programming and design has been the driving force in my professional career.
+When I am not coding I love to travel, read, draw, and watch endless hours of house renovations. Also coffee. I love ☕! </p>
 
 <hr/>
 
