@@ -5,7 +5,7 @@
     </a>
     <a href="mailto:nirmaperera23@gmail.com" alt="Contact me"><img  width="50px" src="https://img.icons8.com/nolan/64/send-mass-email.png"/>
      </a>
-    <a href="https://nirmaperera.github.io" alt="My site"> <img  width="50px"  src="https://img.icons8.com/nolan/64/web.png"/>
+    <a href="https://nirmaperera.netlify.app/" alt="My site"> <img  width="50px"  src="https://img.icons8.com/nolan/64/web.png"/>
     </a>
   </p>
 
