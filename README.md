@@ -23,7 +23,6 @@ When I am not coding I love to travel, read, draw, and watch endless hours of ho
     <img width="50px" src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img width="50px" src="https://img.icons8.com/color/48/000000/sass.png"/>
     <img width="50px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img width="50px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
     <img width="50px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
     <img width="50px" src="https://img.icons8.com/color/48/000000/redux.png"/>
     <img width="50px" src="https://img.icons8.com/color/48/000000/git.png"/>
