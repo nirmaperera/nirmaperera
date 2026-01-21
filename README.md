@@ -12,8 +12,11 @@
 <hr/>
 
 ### Hi there 👋
-<p> I’m a front end developer and designer, passionate about making UI that is not only clean and beautiful but also functional and user friendly. I strive to build UI that is fully responsive and mobile friendly. I bring excellent skills in problem-solving, communication, and creativity. Curiosity to learn and continuously improve in programming and design has been the driving force in my professional career.
-When I am not coding I love to travel, read, draw, and watch endless hours of house renovations. Also coffee. I love ☕! </p>
+<p> Product Manager building user-first products at the intersection of strategy, design, and engineering. I still code, especially when prototyping or validating ideas quickly.
+
+Currently launching Roamly, a travel product focused on thoughtful, practical trip planning. <br>
+
+I enjoy clean UI, continuous learning, travel, sketching, home renovation shows, and good coffee ☕️ </p>
 
 <hr/>
 
