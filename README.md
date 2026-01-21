@@ -1,4 +1,4 @@
-[![Header](https://github.com/nirmaperera/nirmaperera/blob/main/images/BannerOfficalz.png "Header")](https://nirmaperera.github.io)
+
 
 <p align="center">
     <a href="https://www.linkedin.com/in/nirma-perera-abbb43193/" alt="Linkedin"><img width="50px" src="https://img.icons8.com/nolan/64/linkedin.png"/>
